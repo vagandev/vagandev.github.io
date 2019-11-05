@@ -2,10 +2,11 @@
     font-family: Pixel;
     src: url("fonts/myfont.ttf"); 
 }
-
+/*
 div {
 	outline: 1px solid #000;
 }
+*/
 
 /* меню */
 #headerMain {
