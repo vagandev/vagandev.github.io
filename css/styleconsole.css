@@ -1,0 +1,42 @@
+html .content, body .content {
+	text-align: center;
+	position: relative;
+	top: 50%;
+	-ms-transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+html .content span, body .content span {
+	width: 30px;
+	display: inline-block;
+}
+
+.hidden {
+	opacity:0;
+}
+
+.hidden {
+	opacity:0;
+}
+
+.console-container {
+	font-family:Pixel;
+	font-size:66px;
+	text-align:center;
+	height:100px;
+	width:100%;
+	display:block;
+	color:white;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:auto;
+}
+.console-underscore {
+	display:inline-block;
+	position:relative;
+	left:10px;
+	font-family:Pixel;
+}
