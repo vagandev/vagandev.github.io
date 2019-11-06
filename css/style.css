@@ -8,13 +8,13 @@ body {
 
 @keyframes gradientBG {
     0% {
-        background-position: 0% 50vw;
+        background-position: 0% 50vh;
     }
     50% {
-        background-position: 100vh 50vw;
+        background-position: 100vw 50vh;
     }
     100% {
-        background-position: 0% 50vw;
+        background-position: 0% 50vh;
     }
 }
 
