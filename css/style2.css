@@ -3,11 +3,6 @@
     src: url("fonts/myfont.ttf"); 
 }
 
-#prikol{
- width: 100%;
- height:auto;
-}
-
 div {
 	outline: 1px solid #000;
 }
@@ -16,7 +11,7 @@ div {
 /* меню */
 #headerMain {
 	width:100vw;
-	height: 8vh;
+	height: 10vh;
   }
 
 #header {
@@ -46,7 +41,7 @@ div {
 	display: block;
 	color: #dedede;
 	text-align: center;
-	height: 8vh;
+	height: 10vh;
 	text-decoration: none;
 	font-size:1.9em;
 	font-family: Pixel;
