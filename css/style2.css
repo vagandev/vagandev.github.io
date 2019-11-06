@@ -4,11 +4,11 @@
 }
 
 
-/*
+
 div {
 	outline: 1px solid #000;
 }
-*/
+
 
 /* меню */
 #headerMain {
@@ -186,11 +186,9 @@ div {
 
 #sch{
 	float:left;
-	display:block;
 	margin-left:10vw;
-	max-width:35vw;
-	width:auto;
-	height:auto;
+	width:35vw;
+        height:auto;
 }
 
 #sch2{
