@@ -187,11 +187,15 @@ div {
 	width:45%;
 }
 
+#schin{
+ float:left;
+ margin-left:10vw;
+ width: 35vw;
+}
+
 #sch{
-	float:left;
-	margin-left:10vw;
-	width:35vw;
-        height:auto;
+ width:100%;
+ height:auto;
 }
 
 #sch2{
