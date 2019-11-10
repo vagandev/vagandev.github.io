@@ -21,18 +21,14 @@ html .content span, body .content span {
 }
 
 .console-container {
-	font-family:Pixel;
-	font-size:66px;
+	margin-top:4vh;
+	margin-bottom:2vh;
+	width:80vw;
+	margin-left:10vw;
 	text-align:center;
-	height:100px;
-	width:100%;
-	display:block;
-	color:white;
-	top:0;
-	bottom:0;
-	left:0;
-	right:0;
-	margin:auto;
+	font-family: Pixel;
+	font-size:5.45vh;
+	color:#dedede;
 }
 .console-underscore {
 	display:inline-block;
