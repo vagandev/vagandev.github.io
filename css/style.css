@@ -3,7 +3,7 @@ body {
     width: 100%;
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
     background-size: 500% 500%;
-    animation: bg_gr 5s ease infinite;
+    animation: bg_gr 15s ease infinite;
 }
 
 @keyframes bg_gr {
